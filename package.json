@@ -1,7 +1,7 @@
 {
   "name": "json2xml",
   "description": "Simple JavaScript Object to XML string converter.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/estheban/node-json2xml",
   "author": {
     "name": "Etienne Lachance",
